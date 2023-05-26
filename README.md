@@ -5,11 +5,15 @@ This code contains various sub-modules of a single Android Application. This cod
 ## Programming Languages / Frameworks:
 
 ``` bash
+Android Programming
+
 Java
 
 XML
 
-Git
+Maven
+
+Firebase CloudStore
 ```
 
 ## Installation
